@@ -25,7 +25,7 @@ public class TeamazureApplication {
 				+ ""
 				+ "Google Cloud Platform(Kiruba & Juju):\r\n"
 				+ "Google Cloud Platform is a suite of public cloud computing services offered by Google.\n"
-				+ "The platform includes a range of hosted services for compute, storage and application development that run on Google hardware.";
+				+ "The platform includes a range of hosted services for compute, storage and application development that run on Google hardware...";
 	}
 	
 	public static void main(String[] args) {
